@@ -1,0 +1,18 @@
+{
+  "name": "Chiralizm",
+  "version": "1.0.0",
+  "description": "A HTTP request body observing tool for debug.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shunsuke Tadokoro",
+  "license": "MIT",
+  "devDependencies": {
+    "argv": "0.0.2",
+    "colors": "^1.1.2",
+    "http": "0.0.0",
+    "http-proxy": "^1.13.3"
+  }
+}
