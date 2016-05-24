@@ -13,3 +13,5 @@ A **very simple** HTTP request observing tool for debug.
 Requst `http://localhost:9090'` is proxied to `http://example.com`.  
 Request URL and body are shown in your terminal.
 
+## Contributing
+Bug reports and pull requests are welcome on GitHub at [https://github.com/ShunsukeTadokoro/chiralizm](https://github.com/ShunsukeTadokoro/chiralizm)
