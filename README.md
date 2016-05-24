@@ -1,6 +1,8 @@
 # Chiralizm
 A **very simple** HTTP request observing tool for debug.
 
+![Screenshot](https://raw.githubusercontent.com/ShunsukeTadokoro/chiralizm/readme-asset/screenshot.png)
+
 ## Getting Started
 1. `git pull xxx`
 1. `cd chiralizm`
